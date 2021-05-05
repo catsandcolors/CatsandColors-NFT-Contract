@@ -1,2 +1,2 @@
-# NinoArteiroRebellion---NFT-Contract
-Contract code (NFT) of Nino Arteiro
+# CatsandColors---NFT-Contract
+Contract code (NFT) of mel duARTE - Cats and Colors
