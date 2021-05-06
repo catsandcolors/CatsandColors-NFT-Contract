@@ -93,7 +93,7 @@ contract Ownable is Context {
     }
 }
 
-// File: contracts/NinoArteiro.sol
+// File: contracts/CatsandColors.sol
 
 pragma solidity ^0.6.12;
 
